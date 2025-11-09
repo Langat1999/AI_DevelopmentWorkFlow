@@ -1,6 +1,6 @@
 # Hospital Readmission Prediction Project 🏥
 
-C:\Users\user\OneDrive\Desktop\Assignment\Assets\pexels-tara-winstead-7723388.jpg
+![img](Assets/pexels-tara-winstead-7723388.jpg)
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Latest-orange.svg)](https://xgboost.readthedocs.io/)
